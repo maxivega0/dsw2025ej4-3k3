@@ -6,5 +6,5 @@
 | Comision | Legajo | Nombre Completo | Cuenta GitHub | Email |
 |----------|--------|------------------------|-------------------------------------------------------|----------------------------------------|
 |    3k3   | 53483  | Vega Maxmiliano Leonel | [maxivega0](https://github.com/maxivega0)             | maximilianovega600@gmail.com           |
-|    3k3   | 53223  | Galindo Lobo Martina   | [MartiGalind0](https://github.com/MartiGalind0))      | Martina.GalindoLobo@alu.frt.utn.edu.ar |
+|    3k3   | 53223  | Galindo Lobo Martina   | [MartiGalind0](https://github.com/MartiGalind0)       | Martina.GalindoLobo@alu.frt.utn.edu.ar |
 |    3k2   | 53303  | Lopez Asis Juan Manuel | [JuanLopezAsis27](https://github.com/JuanLopezAsis27) | juan.lopezasis27@hotmail.com           |
