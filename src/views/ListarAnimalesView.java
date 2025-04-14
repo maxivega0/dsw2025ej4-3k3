@@ -58,7 +58,7 @@ public class ListarAnimalesView extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Zoológico - Listar Animales");
-        setPreferredSize(new java.awt.Dimension(640, 480));
+        setPreferredSize(new java.awt.Dimension(701, 480));
         setSize(new java.awt.Dimension(640, 480));
 
         animalesGrid.setModel(new javax.swing.table.DefaultTableModel(
@@ -115,7 +115,7 @@ public class ListarAnimalesView extends javax.swing.JFrame {
                     .addGroup(panelLayout.createSequentialGroup()
                         .addComponent(totalHerbivoros, javax.swing.GroupLayout.PREFERRED_SIZE, 312, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(totalLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 217, Short.MAX_VALUE)))
+                        .addComponent(totalLabel, javax.swing.GroupLayout.DEFAULT_SIZE, 216, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         panelLayout.setVerticalGroup(
@@ -161,7 +161,7 @@ public class ListarAnimalesView extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 169, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED, 119, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED, 225, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(panel, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createSequentialGroup()
@@ -173,6 +173,7 @@ public class ListarAnimalesView extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void calcularComidaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_calcularComidaActionPerformed
