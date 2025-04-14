@@ -126,7 +126,9 @@ public class MenuPrincipalView extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void botonAgregarAnimalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonAgregarAnimalActionPerformed
-        // TODO add your handling code here:
+        AgregarAnimalView agregarAnimalVentana = new AgregarAnimalView();
+        agregarAnimalVentana.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_botonAgregarAnimalActionPerformed
 
     private void botonListarAnimalesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonListarAnimalesActionPerformed
